@@ -41,7 +41,7 @@ async def help(event):
                       [Button.url('➕ Məni Qurupa əlavə et ➕', 'http://t.me/CrazyTagBot?startgroup=a')],
                       [Button.url('Dəstək Qurupu 👨‍💻', 'https://t.me/Crazysup')],
                       [Button.url('Rəsmi Kanal 🔖', 'https://t.me/Crazymmc')],
-		      [Button.url('Owner 👨🏻‍💻', 'https://t.me/vusaliw')],
+		      [Button.url('Owner 👨🏻‍💻', 'https://t.me/Dakanca_Hozu')],
                     ),
                     link_preview=False
                    )
@@ -51,7 +51,7 @@ async def help(event):
   helptext = "Premium Söhbət Qurupları ⚡\n\nƏlaqə - @Vusaliw"
   await event.reply(helptext,
                     buttons=(
-                      [Button.url('𝐀𝐳𝐞 𝐒𝐨‌𝐡𝐛𝐞𝐭 𝐆𝐮𝐫𝐮𝐩𝐮 | 🇦🇿👮‍♂️ ', 'https://t.me/AzeSohbetGurupu')],
+                      [Button.url('༒︎ 𝐂𝚁𝐀𝚉𝐘 | 𝐓𝙴𝐀𝙼 𓆙 ', 'https://t.me/CrazyTeamss')],
                     ),
                     link_preview=False
                    )
