@@ -48,7 +48,7 @@ async def help(event):
 	
 @client.on(events.NewMessage(pattern="^/qurup$"))
 async def help(event):
-  helptext = "Premium Söhbət Qurupları ⚡\n\nƏlaqə - @Vusaliw"
+  helptext = "Premium Söhbət Qurupları ⚡\n\nƏlaqə - @Dakanca_Hozu"
   await event.reply(helptext,
                     buttons=(
                       [Button.url('༒︎ 𝐂𝚁𝐀𝚉𝐘 | 𝐓𝙴𝐀𝙼 𓆙 ', 'https://t.me/CrazyTeamss')],
