@@ -28,7 +28,7 @@ async def start(event):
                    
 		      [Button.url('➕ Məni Qurupa əlavə et ➕', 'http://t.me/CrazyTagBot?startgroup=a')],
                       [Button.url('Dəstək Qurupu 👨‍💻', 'https://t.me/Crazysup')],
-                      [Button.url('Rəsmi Kanal 🔖', 'https://t.me/Crazymmc')],
+                      [Button.url('Rəsmi Kanal 🔖', 'https://t.me/crazy_resmi')],
 		      [Button.url('Owner 👨🏻‍💻', 'https://t.me/Dakanca_Hozu')] 
                     ),
                     link_preview=False
@@ -40,7 +40,7 @@ async def help(event):
                     buttons=(
                       [Button.url('➕ Məni Qurupa əlavə et ➕', 'http://t.me/CrazyTagBot?startgroup=a')],
                       [Button.url('Dəstək Qurupu 👨‍💻', 'https://t.me/Crazysup')],
-                      [Button.url('Rəsmi Kanal 🔖', 'https://t.me/Crazymmc')],
+                      [Button.url('Rəsmi Kanal 🔖', 'https://t.me/crazy_resmi')],
 		      [Button.url('Owner 👨🏻‍💻', 'https://t.me/Dakanca_Hozu')],
                     ),
                     link_preview=False
